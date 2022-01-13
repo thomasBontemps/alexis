@@ -3,7 +3,11 @@ ligne2
 ligne3
 ligne4
 ligne5
+<<<<<<< HEAD
 lligne1
 lligne3
+=======
+lligne2
+>>>>>>> origin/branche2
 lligne4
 lligne5
